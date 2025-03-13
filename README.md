@@ -15,13 +15,13 @@ A simple and responsive Blogger website built using HTML, CSS, and JavaScript, e
 
 ## <a name="features">🔋 Features</a>
 
-👉 Fully responsive design
+👉 Fully responsive design.
 
-👉 Dynamic blog post rendering
+👉 Dynamic blog post rendering.
 
-👉 Interactive UI elements
+👉 Interactive UI elements.
 
-👉 Incorporates modern design
+👉 Incorporates modern design.
 
-👉 Simple and clean layout
+👉 Simple and clean layout.
 
